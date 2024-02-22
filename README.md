@@ -30,5 +30,6 @@
 <!--   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> -->
 <!--   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 </p>
-### TOP LANGUAGES
+
+### TOP LANGUAGES <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalakaVoid&layout=compact&exclude_repo=LifeLine,UIBarbershop,Resume,Kursovaia-Ants,my-projects,Note-TG_bot-cassandra,ModelingSystemsLabs)
