@@ -7,7 +7,7 @@
 - 💬 How to reach me: &nbsp; <a href="mailto:azbukin2003@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### TOP LANGUAGES <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalakaVoid&layout=compact&exclude_repo=LifeLine,UIBarbershop,Resume,Kursovaia-Ants,my-projects,Note-TG_bot-cassandra,ModelingSystemsLabs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalakaVoid&layout=compact&exclude_repo=LifeLine,UIBarbershop,Resume,Kursovaia-Ants,my-projects,Note-TG_bot-cassandra,ModelingSystemsLabs,MobileAppsMirea)
 
 ### TECH STACK
 <p>
